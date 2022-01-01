@@ -1,4 +1,4 @@
-global.owner = ['6285643354073'] // Put your number here
+global.owner = ['6285260350706'] // Put your number here
 global.mods = [] // Want some help?
 global.prems = [] // Premium user has unlimited limit
 global.APIs = { // API Prefix
@@ -41,10 +41,10 @@ global.APIKeys = { // APIKey Here
 
 // Sticker WM
 global.stiker_wait = 'Stiker sedang dibuat'
-global.packname = 'stickerby'
-global.author = 'elyas'
+global.packname = 'Sticker'
+global.author = 'F'
 
-global.wm = 'by elyas'
+global.wm = '\t'
 global.media = 'https://telegra.ph/file/ccb2359d3925fd7af58cd.jpg'
 global.instagram = 'https://instagram.com/elyas_tzy'
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=water-logo&doScale=true&scaleWidth=500&scaleHeight=500&fontsize=100&fillTextType=0&backgroundColor=%23101820&text='
