@@ -46,7 +46,7 @@ global.author = 'F'
 
 global.wm = '\t'
 global.media = 'https://telegra.ph/file/ccb2359d3925fd7af58cd.jpg'
-global.instagram = 'https://instagram.com/elyas_tzy'
+global.instagram = 'https://instagram.com/tsumi_to_kokyu'
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=water-logo&doScale=true&scaleWidth=500&scaleHeight=500&fontsize=100&fillTextType=0&backgroundColor=%23101820&text='
 global.wait = '_*tunggu sedang di proses...*_'
 global.eror = '_*Server Error*_'
